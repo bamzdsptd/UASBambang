@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "778263733468",
+    "firebase_url": "https://uasbambang.firebaseio.com",
+    "project_id": "uasbambang",
+    "storage_bucket": "uasbambang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778263733468:android:4f321f9958a63b4458c019",
+        "android_client_info": {
+          "package_name": "com.example.uas_bambang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778263733468-ku7c6iv45lv71sr9n3800r32g6bobo04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uas_bambang",
+            "certificate_hash": "2fce76ec8301a63f6cc8528c3de47f281c1a5046"
+          }
+        },
+        {
+          "client_id": "778263733468-mvusqfjdfvke7tgrctfsv1k4tvlst1cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARcpFBre7O7URdSgQzIiv6F15rhMB0TgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778263733468-mvusqfjdfvke7tgrctfsv1k4tvlst1cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
